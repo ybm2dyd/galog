@@ -1,4 +1,4 @@
-package github.com/ybm2dyd/galog
+package galog
 
 import (
 	"io"
