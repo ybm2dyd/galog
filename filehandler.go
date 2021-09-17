@@ -1,4 +1,4 @@
-package galog
+package github.com/ybm2dyd/galog
 
 import (
 	"fmt"
